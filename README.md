@@ -25,12 +25,3 @@ php artisan serve
 In URL section, enter this address: `/api/products/recommended/` and also add city name in it, for example, `vilnius` and see the magic happening ;)
 
 
-MySQL data can be found in file:
-## weather_products.sql
-
-Insert it into 
-```
-localhost/phpmyadmin
-```
-
-
