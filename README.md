@@ -5,6 +5,14 @@ On this website, a user can check what products would be suitible for a particul
 
 # Instalation
 
+MySQL data can be found in file:
+## weather_products.sql
+
+Insert it into 
+```
+localhost/phpmyadmin
+```
+Open terminal and select folder in which you want your project to be. In terminal, insert:
 ```
 
 $ git clone https://github.com/ginarm1/Parabrace
