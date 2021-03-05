@@ -14,4 +14,4 @@ php artisan serve
 ```
 
 MySQL data can be found in file:
-# weather_products.sql
+## weather_products.sql
