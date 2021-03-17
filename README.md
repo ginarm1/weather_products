@@ -15,7 +15,7 @@ localhost/phpmyadmin
 Open terminal and select folder in which you want your project to be. In terminal, insert:
 ```
 
-$ git clone https://github.com/ginarm1/Parabrace
+$ git clone https://github.com/ginarm1/weather_products.git
 
 php artisan serve
 
